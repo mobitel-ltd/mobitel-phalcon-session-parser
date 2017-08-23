@@ -1,0 +1,27 @@
+{
+  "name": "mobitel-phalcon-session-parser",
+  "version": "1.0.0",
+  "description": "NodeJs module for parsing PHP session from Phalcon framework",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "eslint --quiet --ignore-pattern '/test/' .",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobitel-ltd/mobitel-phalcon-session-parser.git"
+  },
+  "keywords": [
+    "parsing",
+    "php",
+    "session",
+    "phalcon",
+    "mobitel"
+  ],
+  "author": "Mobitel Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mobitel-ltd/mobitel-phalcon-session-parser/issues"
+  },
+  "homepage": "https://github.com/mobitel-ltd/mobitel-phalcon-session-parser#readme"
+}
